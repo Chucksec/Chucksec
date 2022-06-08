@@ -8,19 +8,19 @@ My expertise and core skills range from global optimization strategies from smal
 
 I have deep knowledge of Google Search, and how relevance, reputation, and trust impact a website's visibility. I also hold a fairly successful track record in assessing and troubleshooting SEO disasters and recovering websites from negative scenarios.
 </p>
-<h3>Languages that I program</h3>
+<h3>My skills</h3>
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white"/>
+<img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux" />
-<img src="https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=Docker" />
-<img src="https://img.shields.io/badge/-Git-white?style=for-the-badge&logo=Git" />
-<img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
 </p>
+
+<img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/104417/screenshots/1891125/writeseo-motvion-800x600.gif" width="500" height="320" />
+  
+- 💼 any freelance work? do reach, [email](joaoguilherme.n6@gmail.com) :)
+- 💬 ask me about anything, i am happy to help ;)
