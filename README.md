@@ -21,5 +21,7 @@ I have deep knowledge of Google Search, and how relevance, reputation, and trust
 
 - 💼 any freelance work? do reach, [email](mailto:joaoguilherme.n6@gmail.com) :)
 - 💬 ask me about anything, i am happy to help ;)
-
-<img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/104417/screenshots/1891125/writeseo-motvion-800x600.gif" width="500" height="320" />
+<p>
+<img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> 
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/104417/screenshots/1891125/writeseo-motvion-800x600.gif" width="500" height="320" />
+</p>
