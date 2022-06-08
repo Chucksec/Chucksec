@@ -22,5 +22,5 @@ I have deep knowledge of Google Search, and how relevance, reputation, and trust
 <img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/104417/screenshots/1891125/writeseo-motvion-800x600.gif" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](<a href="mailtojoaoguilherme.n6@gmail.com"</a>) :)
+- 💼 any freelance work? do reach, [email](<a href="joaoguilherme.n6@gmail.com"</a>) :)
 - 💬 ask me about anything, i am happy to help ;)
