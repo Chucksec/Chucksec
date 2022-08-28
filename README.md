@@ -19,7 +19,7 @@ I have deep knowledge of Google Search, and how relevance, reputation, and trust
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
 </p>
 
-- 💼 any freelance work? do reach, [email](mailto:joaoguilherme.n6@gmail.com) :)
+- 💼 any freelance work? do reach, [email](mailto:joaoguilherme.mury@gmail.com) :)
 - 💬 ask me about anything, i am happy to help ;)
 - 
 <img align="center" alt="Full-stack SEO" src="https://cdn.dribbble.com/users/104417/screenshots/1891125/writeseo-motvion-800x600.gif" width="550" height="320" />
