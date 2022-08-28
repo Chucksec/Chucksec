@@ -7,6 +7,8 @@ I work with tools such as Google Search Console, Google Analytics, Google Keywor
 My expertise and core skills range from global optimization strategies from small to global businesses to developing and mentoring teams with a special focus on <b>Technical and Strategic Search Engine Optimization (SEO)</b> and a strong emphasis on Information Architecture, Usability and Web Accessibility.
 
 I have deep knowledge of Google Search, and how relevance, reputation, and trust impact a website's visibility. I also hold a fairly successful track record in assessing and troubleshooting SEO disasters and recovering websites from negative scenarios.
+
+I'm fluent in English, Portuguese, and Spanish; intermediate Greek and French language skills.
 </p>
 <h3>My skills</h3>
 <p>
