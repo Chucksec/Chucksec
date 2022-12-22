@@ -1,3 +1,5 @@
+<!doctype html>
+<html>
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you!</h1>
 
 
@@ -28,4 +30,4 @@ I'm fluent in English, Portuguese, and Spanish; intermediate Greek and French la
 - 💼 any freelance work? do reach, [email](mailto:joaoguilherme.mury@gmail.com) :)
 - 💬 ask me about anything, I'll be happy to help you ;) 
 <img align="center" alt="Full-stack SEO" src="https://cdn.dribbble.com/users/104417/screenshots/1891125/writeseo-motvion-800x600.gif" width="550" height="320" />
-
+</html>
