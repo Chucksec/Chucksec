@@ -1,8 +1,8 @@
 <html>
 <head>
 <style>
-  img {
-  widht:30px;
+img {
+width:30px;
   }
   </style>
   </head>
