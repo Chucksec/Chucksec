@@ -10,7 +10,7 @@ I have deep knowledge of Google Search, and how relevance, reputation, and trust
 
 I'm fluent in English, Portuguese, and Spanish; intermediate Greek and French language skills.
 </p>
-<h3>My skills</h3>
+<h2>My skills</h2>
 <p>
 <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white"/>
 <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
