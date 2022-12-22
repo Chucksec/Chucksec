@@ -7,11 +7,11 @@
 <p> I'm João Guilherme, Full-stack SEO professional from <img src="https://cdn.countryflags.com/thumbs/brazil/flag-400.png" width="20"/> <b>Rio de Janeiro, Brazil</b>, currently working as SEO Analyst at <b>NP Digital</b>. My previous job was at Turing, an American startup located in Silicon Valley.
 I work with tools such as Google Search Console, Google Analytics, Google Keyword Planner, Google PageSpeed Insights, SEMrush, Moz, Ahrefs, Majestic, and Screaming Frog.</p>
 
-My expertise and core skills range from global optimization strategies from small to international businesses to developing and mentoring teams with a special focus on <b>Technical and Strategic Search Engine Optimization (SEO)</b> and a strong emphasis on Information Architecture, Usability and Web Accessibility.
+<p> My expertise and core skills range from global optimization strategies from small to international businesses to developing and mentoring teams with a special focus on <b>Technical and Strategic Search Engine Optimization (SEO)</b> and a strong emphasis on Information Architecture, Usability, Web Accessibility and Business Analysis.<br>
 
-I have deep knowledge of Google Search, and how relevance, reputation, and trust impact a website's visibility. I also hold a fairly successful track record in assessing and troubleshooting SEO disasters and recovering websites from negative scenarios.
+I have deep knowledge of Google Search, and how relevance, reputation, and trust impact a website's visibility. I also hold a fairly successful track record in assessing and troubleshooting SEO disasters and recovering websites from negative scenarios. <br>
 
-I'm fluent in English, Portuguese, and Spanish; intermediate Greek and French language skills.
+I'm fluent in English, Portuguese, and Spanish; intermediate Greek and French language skills. <br>
 </p>
 <h2>My skills</h2>
 <p>
