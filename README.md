@@ -27,6 +27,6 @@ I'm fluent in English, Portuguese, and Spanish; intermediate Greek and French la
 
 - 💼 any freelance work? do reach, [email](mailto:joaoguilherme.mury@gmail.com) :)
 - 💬 ask me about anything, I'll be happy to help you ;) 
-- <alt = https://www.linkedin.com/in/joao-guilherme-mury/>my linkedin</alt>
+- <a href="https://www.linkedin.com/in/joao-guilherme-mury/">my linkedin</a>
 <img align="center" alt="Full-stack SEO" src="https://cdn.dribbble.com/users/104417/screenshots/1891125/writeseo-motvion-800x600.gif" width="550" height="320" />
 </html>
