@@ -2,7 +2,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you!</h1>
 <h2><strong>Welcome to my page!</strong><br></h2>
 <p> I'm João Guilherme, Full-stack SEO professional from <img src="https://cdn.countryflags.com/thumbs/brazil/flag-400.png" width="20"/> <b>Rio de Janeiro, Brazil</b>, currently working as SEO Analyst at <b>NP Digital</b>. My previous job was at Turing, an American startup located in Silicon Valley.
-I work with tools such as Google Search Console, Google Analytics, Google Keyword Planner, Google PageSpeed Insights, Semrush, Moz, Ahrefs, BuzzSumo, GTmetrix, Majestic, and Screaming Frog.</p>
+I work with tools such as Google Search Console, Google Analytics, Google Keyword Planner, Google PageSpeed Insights, Google Trends, Semrush, Moz, Ahrefs, BuzzSumo, GTmetrix, Majestic, and Screaming Frog.</p>
 
 <p> My expertise and core skills range from global optimization strategies from small to international businesses to developing and mentoring teams with a special focus on <b>Technical and Strategic Search Engine Optimization (SEO)</b> and a strong emphasis on Information Architecture, Usability, Web Accessibility and Business Analysis.<br>
 
